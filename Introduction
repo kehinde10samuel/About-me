@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="keywords" content="Anuoluwa, Samuel, Kehinde">
+        <title>About myself</title>
+        <link rel="stylesheet" type="text/css" href="abt.css">
+    </head>
+
+    <body>
+        <h1><center>ANUOLUWA SAMUEL KEHINDE</center></h1>
+            <p><center><h2>Introduction</h2></center><br>
+                My name is Anuoluwa Samuel Kehinde. I am a graduate of the University of Ilorin. I hold a BSc(Ed) in Biology Education, from the department of Science Education, University of Ilorin.
+            I served (National Youth Service Corp) at Community Secondary School, Obangede, Kogi State, as a school teacher.</p>
+            <p>
+                After my graduation, I worked at Omolola High School, Ilorin, with a flawless record, between October 2019 and July 2021, rising through the ranks from a Junior staff (teacher) to a class teacher and finally to the position of Vice Principal.
+                In my endeavor to raise the standard of education in the country, I join Teach For Nigeria (TFN). Teach for Nigeria is a Non-governmental organization that seeks to end the inequality in the education sector of the our dear nation "Nigeria".
+                With the vision that "one day, every Nigerian child will have access to quality education", I went to an under-serve school in Lagos. My hope is that, I will be able to change the life of "one child" in the community.
+            </p>
+            <p>
+                <center><h2>Things that I like</h2></center><br>
+                I love teaching, especially when the students are willing to learn. I have once taught a class for a month for free. I also love yo read.
+                I am not really a picky eater. <ul>Any of the following food will do:
+                <li>Noodles with fried egg.</li>
+                <li>Fried rice and chicken.</li>
+                <li>Pounded yam with Egusi</li>
+                <li>Spagetti and fried chicken</li>
+                </ul>
+            </p>
+            <p><center><h2>Things I don`t like</h2></center>
+                I hate lies, theft, gambling and anything thug-like, because I like to think that, I am a responsible man. I also hate to have to prove myself to anyone.
+                <ul> The food I don`t really like include:
+                    <li>Amala</li>
+                    <li>Boiled yam</li>
+                Not that I hate them like that, but, if given option, I will do away with them.
+                </ul>
+            </p>
+<footer>To follow this story, sign up to this page <a href="Sign up.html">here</a> <br>
+Already have an account, Log in <a href="login page.html">here</a> </footer>
+    </body>
+
+
+
+</html>
